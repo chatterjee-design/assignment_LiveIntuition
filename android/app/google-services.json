@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87628278206",
+    "project_id": "first-assignment-687b0",
+    "storage_bucket": "first-assignment-687b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87628278206:android:b8ef53dc36cddae45071ef",
+        "android_client_info": {
+          "package_name": "com.example.assignment_liveintuition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgCI4ebfwIO_7KRmsOBdk0sTsD9Y6N8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
